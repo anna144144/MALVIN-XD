@@ -13,8 +13,8 @@
         "required": true
         
     },
-      "BOT_NAME": {
-        "description": "write here your bot name.",
+      "anna": {
+        "description": "annastazia.",
         "required": true,
         "value": "ᴍᴀʟᴠɪɴ xᴅ" 
         
@@ -32,20 +32,20 @@
         
    },
      "DESCRIPTION": {
-      "description": "add caption for menu and other",
+      "description": "am back",
       "value": "> *© ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴍᴀʟᴠɪɴ xᴅ*",
       "required": true
       
    }, 
 
-    "OWNER_NUMBER": {
-      "description": "put the owner number for bot.",
-      "value": "263714757857"
+    "225716204767": {
+      "description": "0716204767.",
+      "value": "0716204767"
       "required": true
       
    },
-    "OWNER_NAME": {
-      "description": "Enter your name here",
+    "anna": {
+      "description": "annastazia",
       "value": "",
       "required": true
     }
